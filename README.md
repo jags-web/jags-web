@@ -5,7 +5,7 @@
 </p>
 
 <h2 align="center">Hi 👋, I'm Jagriti Sharma</h2>
-<h3 align="center">A passionate Web & Full Stack Developer</h3>
+<h3 align="center">A passionate Full Stack Developer</h3>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="300"/>
@@ -18,8 +18,8 @@
 - 🎓 BTech Student & Web Developer  
 - 🌱 Currently learning **DSA, MERN Stack & System Design**
 - 💪 Future Goal: **Become industry-ready & crack a good internship**
-- 👯 Open to collaborate on **web & full stack projects**
-- 📫 Reach me at: **your-email@gmail.com**
+- 👯 Open to collaborate on **full stack projects**
+- 📫 Reach me at: **nidhisharma7241@gmail.com**
 - ⚡ Fun fact: I love building things that actually work 🚀
 
 ---
@@ -31,13 +31,11 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="35"/>
 </a>
 &nbsp;&nbsp;
-<a href="https://linkedin.com">
+<a href="https://https://www.linkedin.com/in/jag-sh23/">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="35"/>
 </a>
 &nbsp;&nbsp;
-<a href="https://instagram.com">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" width="35"/>
-</a>
+
 </p>
 
 ---
