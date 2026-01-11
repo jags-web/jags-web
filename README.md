@@ -1,9 +1,3 @@
-<h1 align="left">👨‍💻 Software Developer</h1>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:141e30,100:243b55&height=160&section=header&text=MasterHead&fontColor=ffffff&fontSize=40"/>
-</p>
-
 <h2 align="center">Hi 👋, I'm Jagriti Sharma</h2>
 <h3 align="center">A passionate Full Stack Developer</h3>
 
