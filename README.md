@@ -4,7 +4,6 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="300"/>
 </p>
-
 ---
 
 ## 🌱 About Me
@@ -42,10 +41,6 @@
 
 ---
 
-
-
----
-
 ## 📈 Contribution Graph
 
 <p align="center">
@@ -58,14 +53,6 @@
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=jags-web&theme=tokyonight"/>
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=jags-web&theme=darkhub&no-frame=true&row=1&column=6"/>
 </p>
 
 ---
