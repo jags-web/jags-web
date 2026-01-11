@@ -85,6 +85,12 @@
 </p>
 
 ---
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:2c5364&height=90&section=footer&text=Thanks%20for%20stopping%20by%20👋&fontSize=26&fontColor=00ffd5"/>
+</p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=dhananjay6561&label=Profile%20Views&color=0f2027&style=for-the-badge"/>
+</p>
 
 ## 👀 Visitor Count
 
