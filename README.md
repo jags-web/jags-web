@@ -58,12 +58,6 @@
 
 ---
 
-## 🐍 Snake Game Animation
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/jags-web/github-snake/output/github-snake-dark.svg"/>
-</p>
-
 ---
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=24&fontAlignY=80" />
