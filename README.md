@@ -96,16 +96,7 @@
   <img src="https://komarev.com/ghpvc/?username=jags-web&label=Profile%20Views&color=blue&style=flat"/>
 </p>
 
----
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=24&fontAlignY=80" />
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=dhananjay6561&label=Visitors&color=grey&style=flat" />
-</p>
-
-
----
 
 <p align="center">
 ✨ Thanks for being here.  
@@ -123,6 +114,15 @@ Building quietly. Improving daily.
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=dhananjay6561&style=flat" />
+</p>
+
+
+---
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=24&fontAlignY=80" />
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=dhananjay6561&label=Visitors&color=grey&style=flat" />
 </p>
 
 
