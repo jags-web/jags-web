@@ -90,31 +90,6 @@
   <img src="https://komarev.com/ghpvc/?username=dhananjay6561&label=Profile%20Views&color=0f2027&style=for-the-badge"/>
 </p>
 
-## 👀 Visitor Count
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=jags-web&label=Profile%20Views&color=blue&style=flat"/>
-</p>
-
-
-
-<p align="center">
-✨ Thanks for being here.  
-Building quietly. Improving daily.
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=dhananjay6561&label=Profile%20Views&color=lightgrey&style=flat" />
-</p>
-
-
----
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=90&section=footer&text=Thanks%20for%20visiting&fontSize=22&fontAlign=50&fontAlignY=60" />
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=dhananjay6561&style=flat" />
-</p>
 
 
 ---
