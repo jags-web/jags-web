@@ -25,7 +25,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="35"/>
 </a>
 &nbsp;&nbsp;
-<a href="https://https://www.linkedin.com/in/jag-sh23/">
+<a href="https://www.linkedin.com/in/jag-sh23/">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="35"/>
 </a>
 &nbsp;&nbsp;
