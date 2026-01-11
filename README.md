@@ -1,4 +1,4 @@
-<h1 align="center">👨‍💻 Software / Web Developer</h1>
+<h1 align="left">👨‍💻 Software Developer</h1>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:141e30,100:243b55&height=160&section=header&text=MasterHead&fontColor=ffffff&fontSize=40"/>
@@ -45,7 +45,7 @@
 ## 🛠️ Languages and Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,nodejs,express,mongodb,bootstrap,firebase,python,php,mysql,git,figma,postman"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,nodejs,express,mongodb,bootstrap,firebase,php,mysql,git"/>
 </p>
 
 ---
@@ -97,3 +97,76 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=jags-web&label=Profile%20Views&color=blue&style=flat"/>
 </p>
+
+
+
+
+# 👨‍💻 Software Developer
+
+<img src="https://raw.githubusercontent.com/ashutosh1919/ashutosh1919/master/assets/game-development.gif" width="100%"/>
+
+---
+
+## Hi 👋, I'm Dhananjay
+
+### A passionate Full Stack Developer
+
+- 🌱 I’m currently polishing **DSA and System Design**
+- 🚀 I love building clean, scalable web applications
+- 🤝 Open to collaborating on **creative full-stack projects**
+- 📫 Reach me at **dhananjay6561@gmail.com**
+- ⚡ Fun fact: **"dontknow" is my actual username 😄**
+
+---
+
+## 🌍 About Me
+
+- 📍 New Delhi, India  
+- 🕘 21:20 – same time  
+- 🌐 Portfolio: https://dj-portfolio-five.vercel.app/  
+- 💻 LeetCode: https://leetcode.com/u/dhananjay6561/
+
+---
+
+## 🤝 Connect with Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/dhananjay6561/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  <a href="https://www.instagram.com/dhananjaydontknow" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram" />
+  </a>
+</p>
+
+---
+
+## 🏆 Achievements
+
+- 🏅 GSSoC 2024 Contributor  
+- 🧠 Samsung Innovation Camp – IoT  
+- 🚀 Active Open Source Contributor  
+
+---
+
+## 🛠 Languages & Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,firebase,git,github" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=dhananjay6561&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dhananjay6561&theme=tokyonight" />
+</p>
+
+---
+
+⭐ Thanks for visiting my profile!
