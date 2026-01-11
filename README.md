@@ -58,8 +58,6 @@
 
 ---
 
----
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=24&fontAlignY=80" />
 
 <p align="center">
